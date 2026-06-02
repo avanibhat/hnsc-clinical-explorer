@@ -7,7 +7,7 @@ sdk: docker
 pinned: false
 ---
 
-[![Open in HF Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/avanibhat/hnsc-clinical-explorer)
+\
 
 # HNSC Clinical Decision Support Explorer
 
@@ -18,6 +18,7 @@ Built with Streamlit, Plotly, and lifelines.
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Open in HF Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/avanibhat/hnsc-clinical-explorer)
 
 ## Motivation
 
