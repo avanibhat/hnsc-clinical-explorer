@@ -7,6 +7,8 @@ sdk: docker
 pinned: false
 ---
 
+[![Open in HF Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/avanibhat/hnsc-clinical-explorer)
+
 # HNSC Clinical Decision Support Explorer
 
 An interactive dashboard for exploring treatment strategies and patient outcomes in **Head and Neck Squamous Cell Carcinoma (HNSC)** using publicly available data from [The Cancer Genome Atlas (TCGA)](https://portal.gdc.cancer.gov/projects/TCGA-HNSC).
